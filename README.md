@@ -53,3 +53,7 @@ Hoje integro minha bagagem criativa com tecnologia: atuo como **desenvolvedor fu
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1C34FF&height=100&section=footer" />
+
+
+
+<p>Cuidado, deixa aberto não/p>
